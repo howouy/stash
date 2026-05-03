@@ -1035,6 +1035,7 @@ div.dropdown-menu {
 }
 
 .top-nav {
+  background-color: #0d0f12 !important;
   justify-content: start;
   padding: 0.25rem 1rem;
 
@@ -1061,6 +1062,7 @@ div.dropdown-menu {
   }
 
   .navbar-collapse {
+    background-color: #0d0f12 !important;
     justify-content: space-between;
     max-height: calc(100vh - 4rem);
 
